@@ -1,5 +1,5 @@
 {
-  "name": "Camillabim/bibliotecapw3",
+  "name": "camillabim/bibliotecapw3",
   "description": "Minha primeira biblioteca ",
   "type": "library",
   "require": {
@@ -9,7 +9,7 @@
   "version": "1.0",
   "authors": [
     {
-      "name": "Camillabim",
+      "name": "camillabim",
       "email": "camillabim@hotmail.com.br"
     }
   ],
